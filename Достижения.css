@@ -1,0 +1,28 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+.u-section-1 .u-text-4 {
+  margin-left: 0;
+  line-height: 2;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.carousel-item{
+  height: 120vh;
+  width: 50vw;
+  margin: 10px 50px 20px;
+}
+.carousel-item img{
+    height: 120vh;
+    width: 50vw;
+}
+.carousel-control-next{
+    margin-right: 280px
+}
+.carousel-control-prev{
+    margin-left: 230px
+}
+.carousel-inner {
+    margin-top: -400px;
+    margin-left: 250px;
+}
