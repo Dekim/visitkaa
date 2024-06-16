@@ -15,6 +15,16 @@
       width: 400px;
       height: 500px;
 }
+.features-block-gor span img {
+      width: 550px;
+      height: 400px;
+      margin-top: 400px;
+}
+.features-block-gor-2 span img {
+      width: 550px;
+      height: 400px;
+      margin-top: 430px;
+}
 ul.grid {
     list-style:none;
     padding:0;
